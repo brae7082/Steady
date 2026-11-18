@@ -1,0 +1,18 @@
+{
+  "name": "Steady \u2014 Bodyweight Coach",
+  "short_name": "Steady",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f3ee",
+  "theme_color": "#f4f3ee",
+  "description": "Your personal progressive bodyweight training companion.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
